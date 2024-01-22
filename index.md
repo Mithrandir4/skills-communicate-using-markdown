@@ -6,3 +6,7 @@
 ``` python
 print()
 ```
+- [x] Create a GitHub account
+- [x] Create a task list
+- [ ] Stop working
+
